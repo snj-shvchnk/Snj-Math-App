@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SnjMathApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:/Work/Sample.txt\""
+    }
+  }
+}
